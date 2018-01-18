@@ -13,4 +13,11 @@
   grade: stable
   confinement: strict
 
-  
+     apps:
+     lutris:
+    command: lutri
+
+     parts:
+     my-part:
+         # See 'snapcraft plugins'
+    plugin: nil
