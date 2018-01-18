@@ -20,4 +20,4 @@
      parts:
      my-part:
          # See 'snapcraft plugins'
-    plugin: python3
+    plugin: python3, python2, autotools, cmake, qmake
