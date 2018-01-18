@@ -2,7 +2,6 @@
   name: lutris
   version: 0.1
   summary: Lutris is an open source gaming platform for GNU/Linux. 
-    It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
   description: |
     Lutris is an open source gaming platform for GNU/Linux. 
     It makes gaming on Linux easier by taking care of managing, installing and providing optimal settings for games.
