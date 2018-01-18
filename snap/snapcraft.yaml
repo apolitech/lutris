@@ -20,4 +20,4 @@
      parts:
      my-part:
          # See 'snapcraft plugins'
-    plugin: nil
+    plugin:python3
