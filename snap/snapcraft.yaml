@@ -15,7 +15,7 @@
 
      apps:
      lutris:
-    command: lutri
+    command: lutris
 
      parts:
      my-part:
